@@ -1,0 +1,35 @@
+
+<!DOCTYPE html> 
+<html>
+
+<title> CPU RANKINGS  </title>
+<a style=color:whitesmoke><bold><head><h1>Αναλητικη αξιονομιση CPU </h1></head></bold> 
+
+<body style = "background-color: rgb(54, 43, 43);"> 
+
+<ul>
+
+<a style="color: white;"><h2><br><li>Ryzen 9 7950X AM5 4.5GHZ 64MB  </li></br></h2>
+<img src="ryzen9.jpg" width="20%" /> 
+
+<h2><br> <li> Ryzen 5 8600G AM5 4.3 GHz 16MB </li></br></h2> 
+<img src="ryzen586.jpg" width="20%" />
+
+<h2><br> <li> Ryzen 5 3400G AM4 3.7 GHz 6MB </li></br></h2>
+<img src="ryzen534.jpg" width="20%" />
+<h2><br> <li> Ryzen 5 5500 AM4 3.6 GHz  19MB</li></br> </h2>   
+<img src="ryzen555.png" width="20%"/>
+<h2><br><li>Ryzen 5 5600 AM4 3.5 GHz  35MB</li></br> </h2>
+<img src="ryzen556.jpg" width="20%" />
+
+ </ul> 
+
+
+
+
+
+</body></li>
+<h1><li>Vrethikan se ayto ton istotopo </li></h1>
+<h2><a href="https://www.plaisio.gr/" target="_blank">Plaisio</a> </h2>
+
+</html> 
